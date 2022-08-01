@@ -1,4 +1,4 @@
-name: drupalpod-starterkit
+name: drupalpod-ats-demo
 type: drupal9
 docroot: web
 php_version: "7.4"
